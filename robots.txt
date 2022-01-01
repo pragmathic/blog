@@ -1,1 +1,1 @@
-Sitemap: https://pragmathic.github.io/blog/sitemap.xml
+Sitemap: https://programmathic.github.io/blog/sitemap.xml
